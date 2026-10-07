@@ -1,5 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = "https://kMatejak.github.io/kdz/"
+publishDir = "public"
+
+languageCode = 'pl-PL'
 title = "Kolektyw Dźwięku"
 theme = "LucentLink-Hugo"
 minVersion = "0.115.0"
