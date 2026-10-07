@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Kolektyw Dźwięku"
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+[params]
+  description     = "Chór Kolektyw Dźwięku jest głosem solidarności, protestu, wyzwolenia. Śpiewa pieśni, które były i są wyrazem zjednoczenia się z tym, co wspólne dla ludzi w każdym zakątku świata."
+  googleAnalytics = ""    # your GA ID, if any
+
+[outputs]
+  home = ["HTML"]
