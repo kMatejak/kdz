@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/kdz/categories/</loc>
+    <loc>https://kMatejak.github.io/kdz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/kdz/</loc>
+    <loc>https://kMatejak.github.io/kdz/</loc>
   </url><url>
-    <loc>http://localhost:1313/kdz/tags/</loc>
+    <loc>https://kMatejak.github.io/kdz/tags/</loc>
   </url>
 </urlset>
