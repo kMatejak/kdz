@@ -10,9 +10,10 @@
     <h1 class="text-3xl font-bold mb-5 text-center show-on-top" style="color: var(--text-color)">
       {{ .Params.name }}
     </h1>
-    <p class="text-center opacity-80 mb-7 show-on-top">{{ .Params.description }}</p>
+    
+    <p class="block rounded-lg p-6 blur-background text-center mb-6 show-on-top">{{ .Params.description }}</br>{{ .Params.call_to_action }}</p>
   
-    <div class="flex flex-wrap justify-center gap-5 mb-5 social-icons">
+    <div class="flex flex-wrap justify-center gap-5 social-icons">
       {{ range .Params.socials }}
         <a href="{{ .url }}" class="text-xl show-on-top" target="_blank" rel="noopener">
           <i class="{{ .icon }} icon"></i>
@@ -20,3 +21,9 @@
       {{ end }}
     </div>
 </div>
+
+
+
+
+
+<!-- class="block link-card p-4 flex items-center" -->
