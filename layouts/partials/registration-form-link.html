@@ -1,0 +1,16 @@
+<div class="space-y-4 mb-8">
+
+    {{ range .Params.registration }}
+
+      <a href="{{ .href }}" class="block link-card p-4 flex items-center">
+        <div class="w-24 h-16 flex items-center justify-center mr-4">
+          <img src="{{ .img }}" alt="zapisz się" class="">
+        </div>
+        <div>
+          <h3 class="font-medium">{{ .text }}</h3>
+        </div>
+      </a>
+
+    {{ end }}
+
+</div>

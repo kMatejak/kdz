@@ -13,6 +13,11 @@ socials:
   - url: "https://www.youtube.com/@KDzwieku"
     icon: "fab fa-youtube"
 
+# Link to registration form
+registration:
+  - href: "https://forms.gle/ikoikqZ6DCSr1oFX9"
+    img: "images/zapisz-sie.png"  
+    text: "Wypełnij formularz i umów się na przesłuchanie przed pierwszą próbą"
 
 # Link cards
 links:
