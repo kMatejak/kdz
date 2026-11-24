@@ -3,7 +3,7 @@ title: "Kolektyw Dźwięku"
 # Profile settings
 profileImage: "images/kdz-logo-red.png"        # path under static/
 name: "Kolektyw Dźwięku"
-description: "Jesteśmy inkluzywnym chórem, który prowadzimy demokratycznie. Śpiewamy pieśni solidarności, emancypacji, wyzwolenia. Z różnych czasów, w różnych językach. Nasze próby odbywają się w Warszawie. Cały czas szukamy nowych głosów."
+description: "Jesteśmy inkluzywnym chórem, który prowadzimy demokratycznie. Śpiewamy pieśni solidarności, emancypacji, wyzwolenia. Ale też takie po prostu miłe i zabawne! Z różnych czasów, w różnych językach. Próby mamy w Warszawie. Cały czas szukamy nowych głosów :)"
 call_to_action: "🔥 Dołącz do nas! 🔥"
 socials:
   - url: "https://www.instagram.com/kolektyw_dz"
@@ -21,7 +21,7 @@ registration:
 
 # Link cards
 links:
-  - href: "mailto:you@example.com"
+  - href: "mailto:towarzystwodzwieku@gmail.com"
     icon: "fas fa-envelope"
     title: "Napisz do nas maila"
     description: "Nasz główny adres kontaktowy"
@@ -37,17 +37,6 @@ links:
     icon: "fab fa-youtube"
     title: "YouTube"
     description: "A tutaj nagrania z naszych koncertów i nie tylko"
-
-# - href: "https://newsletter.your.site"
-#   icon: "fas fa-newspaper"
-#   title: "Newsletter"
-# description: "Zapisz się na newsletter, żeby być na bieżąco z naszymi przyszłymi występami"
-
-# - href: "https://buymeacoffee.com/you"
-#   icon: "fas fa-coffee"
-#   title: "Postaw nam kawę!"
-#   description: "Wesprzyj nas stawiając nam wirtualną kawę"
-
 
 messaging:
   title: "Czym się kierujemy"
