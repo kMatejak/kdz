@@ -1,4 +1,4 @@
-baseURL = "https://kmatejak.github.io/kdz/"
+baseURL = "https://kdz.org.pl/"
 publishDir = "public"
 
 languageCode = 'pl-PL'
