@@ -7,7 +7,7 @@ theme = "LucentLink-Hugo"
 minVersion = "0.115.0"
 
 [params]
-  description     = "Jesteśmy inkluzywnym chórem, który prowadzimy demokratycznie. Śpiewamy pieśni solidarności, emancypacji, wyzwolenia. Z różnych czasów, w różnych językach. Nasze próby odbywają się w Warszawie. Cały czas szukamy nowych głosów."
+  description     = "Jesteśmy inkluzywnym chórem, który prowadzimy demokratycznie. Śpiewamy pieśni solidarności, emancypacji, wyzwolenia. Ale też takie po prostu miłe i zabawne! Z różnych czasów, w różnych językach. Próby mamy w Warszawie. Cały czas szukamy nowych głosów!"
   googleAnalytics = ""    # your GA ID, if any
 
 [outputs]
